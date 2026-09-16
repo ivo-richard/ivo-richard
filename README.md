@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ivo Richard
 
-<!--
-**ivo-richard/ivo-richard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm learning to build software from the ground up and turning my ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Python
+- APIs & Backend Development
+
+## Projects
+
+### Richard Tracker SDK
+
+A lightweight JavaScript analytics and state-management SDK designed to provide reusable tools for tracking interactions and managing application state.
+
+More projects coming as I continue learning and building.
+
+## My Journey
+
+Currently focused on strengthening my JavaScript fundamentals, building practical projects, and working toward full-stack development.
+
+---
+
+Thanks for visiting my profile!
