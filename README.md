@@ -13,9 +13,11 @@ I'm learning to build software from the ground up and turning my ideas into real
 
 ## Projects
 
-### Richard Tracker SDK
+### Guess the Number
 
-A lightweight JavaScript analytics and state-management SDK designed to provide reusable tools for tracking interactions and managing application state.
+A responsive JavaScript number-guessing game featuring scoring, streaks, best scores, audio feedback, and local storage.
+
+[Play the game](https://ivo-richard.github.io/guess-the-number/)
 
 More projects coming as I continue learning and building.
 
